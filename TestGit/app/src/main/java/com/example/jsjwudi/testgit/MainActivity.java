@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         String a = "123";
 
+        int ty = 9;
+
 
     }
 }
